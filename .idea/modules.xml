@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/FileRenamer.iml" filepath="$PROJECT_DIR$/FileRenamer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../IdeaProjects/FileRenamer/FileRenamer.iml" filepath="$PROJECT_DIR$/../../IdeaProjects/FileRenamer/FileRenamer.iml" />
     </modules>
   </component>
 </project>
